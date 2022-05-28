@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello there 👋
-  ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father
+  ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father    just kidding I'm Arthur or Stuepp :)
   
   - I'm currently studying at UDESC CCT (4º semester)
   - New trainee on GERM
