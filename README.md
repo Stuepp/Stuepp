@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello there 👋
-  ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father, just kidding I'm Arthur or Stuepp :)
+## Hello there 👋 I'm Stuepp
+  ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father
   
   - I'm currently studying at UDESC CCT (4º semester)
   - New trainee on GERM
