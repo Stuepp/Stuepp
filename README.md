@@ -24,6 +24,8 @@ Here are some ideas to get you started:
     - *Architecture and Computer Organization*
     - *Systems Analysis and Modeling*
 
+  - My social medias:
 <div styke="display: inline_block"><br>
+  <a href="https://www.instagram.com/arthurh.cavalcanti/"> <img alt="my instagram" src="img/instagram.png" align="left" height="5%" width="5%" /> <a/>
   <img alt="alternate me" src="img/download20220506165851.png" align="right" height="25%" width="25%"/>
 <div/>
