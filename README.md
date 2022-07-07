@@ -16,7 +16,6 @@ Here are some ideas to get you started:
   ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father
   
   - I'm currently studying at UDESC CCT (4º semester)
-  - New trainee on GERM
   - I'm currently learning: 
     - *Graph Theory*
     - *Numerical Analysis*
