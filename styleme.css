@@ -1,3 +1,7 @@
+body{
+  background-color: white;
+}
+
 #avatar{
   background: url('https://avatars.githubusercontent.com/u/50219237?v=4');
 }
