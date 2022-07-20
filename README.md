@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script src="https://github.com/Stuepp/Stuepp/blob/2ba8a3c801f484ee540088f047c38e0786e7ee02/index.js"></script>
+<link rel="stylesheet" href="[styles.css](https://github.com/Stuepp/Stuepp/blob/b443c3e973a8c18b2c919c076412ad573c895c38/styleme.css)">
 ## Hello there 👋 I'm Stuepp
   ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father
   
