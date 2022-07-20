@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script src="https://github.com/Stuepp/Stuepp/blob/2ba8a3c801f484ee540088f047c38e0786e7ee02/index.js"></script>
 ## Hello there 👋 I'm Stuepp
   ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father
   
@@ -27,5 +28,5 @@ Here are some ideas to get you started:
 <div styke="display: inline_block"><br>
   <a href="https://www.instagram.com/arthurh.cavalcanti/"> <img alt="my instagram" src="img/instagram.png" align="left" height="5%" width="5%" /> <a/>
   <a href="https://twitter.com/Stuepp3"> <img alt="my instagram" src="https://github.com/Stuepp/Stuepp/blob/main/img/twitter-logo.png?raw=true" align="left" height="5%" width="5%" /> <a/>
-  <img alt="alternate me" src="https://avatars.githubusercontent.com/u/50219237?v=4" align="right" height="25%" width="25%"/>
+  <img id="avatar" alt="alternate me" src="https://avatars.githubusercontent.com/u/50219237?v=4" align="right" height="25%" width="25%" onmouseover="hover(this);" onmouseout="unhover(this);"/>
 <div/>
