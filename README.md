@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     - *Graph Theory*
     - *Numerical Analysis*
     - *Data Structure II*
-    - *Architecture and Computer Organization*
+    - *Architecture and Computer Organization* ✔️
     - *Systems Analysis and Modeling*
 
   - My social medias:
