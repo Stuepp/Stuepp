@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
   - I'm currently studying at UDESC CCT (4º semester)
   - I'm currently learning: 
-    - *Graph Theory*
+    - *Graph Theory* ✔️
     - *Numerical Analysis*
     - *Data Structure II*
     - *Architecture and Computer Organization* ✔️
