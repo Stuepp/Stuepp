@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - I'm currently learning: 
     - *Graph Theory* ✔️
     - *Numerical Analysis*
-    - *Data Structure II*
+    - *Data Structure II* ✔️
     - *Architecture and Computer Organization* ✔️
     - *Systems Analysis and Modeling*
 
