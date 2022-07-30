@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 ## Hello there 👋 I'm Stuepp
   ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father
   
-  - I'm currently studying at UDESC CCT (4º semester)
-  - I'm currently learning: 
-    - *Graph Theory* ✔️
-    - *Numerical Analysis*
-    - *Data Structure II* ✔️
-    - *Architecture and Computer Organization* ✔️
-    - *Systems Analysis and Modeling*
+  - I'm currently studying at UDESC CCT (5º semester)
+  - Crrently I have a scholarship 😆
+    - check: <a href="https://www.udesc.br/cct/fabrica">https://www.udesc.br/cct/fabrica</a>
 
   - My social medias:
 <div styke="display: inline_block"><br>
