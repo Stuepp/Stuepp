@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hello there 👋 I'm Stuepp
   ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father
   
-  - I'm currently studying at UDESC CCT (5º semester)
+  - I'm currently studying at UDESC CCT (5/6º semester)
   - Currently I have a scholarship 😆
     - check: <a href="https://www.udesc.br/cct/fabrica">https://www.udesc.br/cct/fabrica</a>
 
