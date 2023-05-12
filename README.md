@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father
 -->
 ## Hello there 👋 I'm Stuepp
-  ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father
   
   - I'm currently studying at UDESC CCT (5/6º semester)
   - Currently I have a scholarship 😆
