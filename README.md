@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   - I'm currently studying at UDESC CCT (5/6º semester)
   - Currently I have a scholarship 😆
     - check: <a href="https://www.udesc.br/cct/fabrica">https://www.udesc.br/cct/fabrica</a>
+    - my current homework: https://github.com/Stuepp/Gravadora
 
   - My social medias:
 <div styke="display: inline_block"><br>
