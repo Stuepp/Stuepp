@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 ## Hello there 👋 I'm Stuepp
   
-  - I'm currently studying at UDESC CCT (5/6º semester)
+  - I'm currently studying at UDESC CCT (7º semester)
   - Currently I have a scholarship 😆
-    - check: <a href="https://www.udesc.br/cct/fabrica">https://www.udesc.br/cct/fabrica</a>
-    - my current homework: https://github.com/Stuepp/Gravadora
+    - my last homework project: https://github.com/Stuepp/Gravadora
+    - Java reps: https://github.com/Stuepp/JAVA-CLASS ; https://github.com/Stuepp/POO-Rede-Social
+    - Data Structure Reps: https://github.com/Stuepp/Data-Structure-II ; https://github.com/Stuepp/EDA
 
   - My social medias:
 <div styke="display: inline_block"><br>
