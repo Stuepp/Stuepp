@@ -14,11 +14,10 @@ Here are some ideas to get you started:
  ### <img height="25px" width="25px" src="img/kindpng_311899.png"/> I'm your father
 -->
 ## Hello there 👋 I'm Stuepp
-  
-  - I'm currently studying at UDESC CCT (7º semester)
-  - Currently I have a scholarship 😆
-    - my last homework project: https://github.com/Stuepp/Gravadora
-    - Java reps: https://github.com/Stuepp/JAVA-CLASS ; https://github.com/Stuepp/POO-Rede-Social
+    - Django Project 1 "Gravadora": https://github.com/Stuepp/Gravadora
+    - Django Project 2 "Gain Tracker": https://github.com/Stuepp/Final-work
+    - Java reps: https://github.com/Stuepp/JAVA-CLASS
+    - Java Social Media: https://github.com/Stuepp/POO-Rede-Social
     - Data Structure Reps: https://github.com/Stuepp/Data-Structure-II ; https://github.com/Stuepp/EDA
 
   - My social medias:
