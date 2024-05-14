@@ -19,6 +19,7 @@ Here are some ideas to get you started:
     - Java reps: https://github.com/Stuepp/JAVA-CLASS
     - Java Social Media: https://github.com/Stuepp/POO-Rede-Social
     - Data Structure Reps: https://github.com/Stuepp/Data-Structure-II ; https://github.com/Stuepp/EDA
+    - Portfolio: https://stuepp-portfolio.netlify.app/ ; Repo: https://github.com/Stuepp/portifolio
 
   - My social medias:
 <div styke="display: inline_block"><br>
