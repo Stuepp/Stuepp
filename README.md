@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 <div styke="display: inline_block"><br>
   <a href="https://www.instagram.com/arthurh.cavalcanti/"> <img alt="my instagram" src="img/instagram.png" align="left" height="5%" width="5%" /> <a/>
   <a href="https://twitter.com/Stuepp3"> <img alt="my instagram" src="https://github.com/Stuepp/Stuepp/blob/main/img/twitter-logo.png?raw=true" align="left" height="5%" width="5%" /> <a/>
+  <a href="https://www.linkedin.com/in/arthur-henrique-cavalcanti/"><img alt="my linkedIn" src="https://github.com/Stuepp/Stuepp/blob/main/img/LI-In-Bug.png" align="left" height="5%" width="5%"/></a>
   <img id="avatar" alt="alternate me" src='https://avatars.githubusercontent.com/u/50219237?v=4' align="right" height="25%" width="25%"/>
 <div/>
