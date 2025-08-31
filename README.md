@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm a CS student at the end of my course, a bit off on github but preparing for a some change...
 
+⚡ Fun fact: I like to study new languages, right now (going slow but still going) I'm interested in german and russian.
+
 These are some of my projects:
    - Django Project 1 "Gravadora": https://github.com/Stuepp/Gravadora
    - Django Project 2 "Gain Tracker": https://github.com/Stuepp/Final-work
@@ -31,6 +33,3 @@ These are some of my projects:
 <div styke="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/arthur-henrique-cavalcanti/"><img alt="my linkedIn" src="https://github.com/Stuepp/Stuepp/blob/main/img/LI-In-Bug.png" align="left" height="5%" width="5%"/></a>
 <div/>
-<br/>
-
-- ⚡ Fun fact: I like to study new languages, right now (going slow but still going) I'm interested in german and russian.
