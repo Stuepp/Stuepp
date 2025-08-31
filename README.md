@@ -31,5 +31,6 @@ These are some of my projects:
 <div styke="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/arthur-henrique-cavalcanti/"><img alt="my linkedIn" src="https://github.com/Stuepp/Stuepp/blob/main/img/LI-In-Bug.png" align="left" height="5%" width="5%"/></a>
 <div/>
+<br/>
 
 - ⚡ Fun fact: I like to study new languages, right now (going slow but still going) I'm interested in german and russian.
