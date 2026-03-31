@@ -1,17 +1,21 @@
+## My Hub:
 
-## These are some of my projects:
-
+ ### Here it is my DS project, for learning concepts, python and how to use the libs
+ 
  Data Science:
   - https://github.com/Stuepp/DeliveryCompany-DS-Problem
+
+
+### These are some of my projects, for learning tools:
  
- Developer:
-  - Django Project 1 "Gravadora": https://github.com/Stuepp/Gravadora
-  - Django Project 2 "Gain Tracker": https://github.com/Stuepp/Final-work
-  - Django Project 3 "Lodge-Rent (Full-Stack)": https://github.com/Stuepp/Lodge-Rent
+ Pyhton:
+  - Record Comapny -- Stack: Pyhton and Django -- Learning Project: https://github.com/Stuepp/Gravadora
+  - "Gain Tracker" -- Stack: Pyhton and Django -- Learning Project : https://github.com/Stuepp/Final-work
+  - Lodge-Rent (Full-Stack) -- Stack: Pyhton and Django -- Learning Project : https://github.com/Stuepp/Lodge-Rent
   - Java Social Media: https://github.com/Stuepp/POO-Rede-Social
   - Diatributed System, Election of master server algorithm: https://github.com/Stuepp/Distributed-Systems-Election--Algorithm-Bully-vs-Ring
  
- Learning Repos:
+ Learning Repos - During Uni time:
   - Data Structure: https://github.com/Stuepp/Data-Structure-II ; https://github.com/Stuepp/EDA
   - Java: https://github.com/Stuepp/JAVA-CLASS
 
