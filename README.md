@@ -19,20 +19,6 @@
   - Data Structure: https://github.com/Stuepp/Data-Structure-II ; https://github.com/Stuepp/EDA
   - Java: https://github.com/Stuepp/JAVA-CLASS
 
-## My Github Activity
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Stuepp&show_icons=true&theme=jolly#gh-dark-mode-only)"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Stuepp&show_icons=true&theme=buefy#gh-light-mode-only"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Stuepp&show_icons=true" />
-</picture>
-
 ## Languages and tool that I use
 
 <div>
